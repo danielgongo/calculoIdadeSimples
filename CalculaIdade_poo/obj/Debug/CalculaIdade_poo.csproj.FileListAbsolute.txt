@@ -1,0 +1,8 @@
+C:\Curso_c#\POO_DFILITTO\CalculaIdade_poo\CalculaIdade_poo\bin\Debug\CalculaIdade_poo.exe.config
+C:\Curso_c#\POO_DFILITTO\CalculaIdade_poo\CalculaIdade_poo\bin\Debug\CalculaIdade_poo.exe
+C:\Curso_c#\POO_DFILITTO\CalculaIdade_poo\CalculaIdade_poo\bin\Debug\CalculaIdade_poo.pdb
+C:\Curso_c#\POO_DFILITTO\CalculaIdade_poo\CalculaIdade_poo\obj\Debug\CalculaIdade_poo.csproj.AssemblyReference.cache
+C:\Curso_c#\POO_DFILITTO\CalculaIdade_poo\CalculaIdade_poo\obj\Debug\CalculaIdade_poo.csproj.SuggestedBindingRedirects.cache
+C:\Curso_c#\POO_DFILITTO\CalculaIdade_poo\CalculaIdade_poo\obj\Debug\CalculaIdade_poo.csproj.CoreCompileInputs.cache
+C:\Curso_c#\POO_DFILITTO\CalculaIdade_poo\CalculaIdade_poo\obj\Debug\CalculaIdade_poo.exe
+C:\Curso_c#\POO_DFILITTO\CalculaIdade_poo\CalculaIdade_poo\obj\Debug\CalculaIdade_poo.pdb
